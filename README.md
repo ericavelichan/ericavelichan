@@ -10,7 +10,7 @@
   <a href = "mailto:ericavelichans@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericavelichan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-### Linguagens e programas: 
+### Linguagens e programas que estou estudando: 
 
 <div> 
 <img src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'></a>
