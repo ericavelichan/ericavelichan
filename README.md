@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com análise de dados e prevenção à fraudes
 - 🌱 Estou estudando Sistema da Informação
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 ### Conexões: 
 <div> 
